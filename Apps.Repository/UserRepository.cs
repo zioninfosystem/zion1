@@ -8,5 +8,6 @@ namespace Apps.Repository
 {
     public class UserRepository
     {
+
     }
 }
